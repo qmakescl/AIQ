@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+
+# yoonani added
+.DS_Store
+.vscode/
+.env
+requirements.txt
